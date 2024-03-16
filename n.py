@@ -73,7 +73,7 @@ def hero():
         clear()
         system(banner)
         print("Contact me on telegram @Brutal900l")
-        print("Enter ",newperiod,"     New Price :")
+        print("Enter     NEW PERIOD LAST 5 DIGITS   :")
         current=input()
         current=int(current)
         chalo()
@@ -155,7 +155,7 @@ if(expirydate>today):
 
             hero()
     else:
-        banner='figlet RXCE'
+        banner='figlet 91club HACK'
         print("Hi!! 🤑Thanks for buying the hack🤑")
         print("----------⌛Your play time⌛----------")
         print(" 11:00 AM- 11:30 AM")
@@ -171,7 +171,7 @@ if(expirydate>today):
         print("play at your own risk please don't blame owner on any loss")
       
 else:
-    banner='figlet RXCE HACK'
+    banner='figlet 91club HACK'
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
