@@ -167,7 +167,7 @@ if(expirydate>today):
         print(" admin on telegram @Brutal900l ")
         ("Channel join krle bhosdke😁 @Brutal900l")
         print( "Msg me on telegram @Brutal900l")
-        banner='figlet mih56'
+        banner='figlet BRUTAL'
         print("play at your own risk please don't blame owner on any loss")
       
 else:
