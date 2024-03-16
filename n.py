@@ -121,12 +121,12 @@ def hero():
             y=False
         if (len(numbers)>11):
             clear()
-            system('figlet RXCE   HACK !!')
+            system('figlet 91club HACK !!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n Contact on Telegram @Brutal900l")
             #print(numbers)
-        banner='figlet COLOUR HACK '
+        banner='figlet 91club HACK '
 
 
 
