@@ -92,27 +92,27 @@ def hero():
             n=int(current)%10
             if((m%2==0 and n%2==0) or (m%2==1 and n%2==1)):
                 if current in numbers:
-                    print(newperiod+1," : 🔴RED🔴  OR SMALL")
+                    print(newperiod+1," : 🔴RED🔴 ")
                 else:
-                    print(newperiod+1," : 🟢GREEN🟢  OR BIG ")
+                    print(newperiod+1," : 🟢GREEN🟢   ")
             else:
                 if current in numbers:
-                    print(newperiod+1," : 🟢GREEN🟢  OR BIG")
+                    print(newperiod+1," : 🟢GREEN🟢  ")
                 else:
-                    print(newperiod+1," : 🔴RED🔴  OR SMALL")
+                    print(newperiod+1," : 🔴RED🔴  ")
         if i in thatway:
             m=getSum(current)+1
             n=int(current)%10
             if((m%2==0 and n%2==0) or (m%2==1 and n%2==1)):
                 if current in numbers:
-                    print(newperiod+1,": 🔴RED🔴 OR SMALL")
+                    print(newperiod+1,": 🔴RED🔴 ")
                 else:
-                    print(newperiod+1,": 🟢GREEN🟢  OR BIG ")
+                    print(newperiod+1,": 🟢GREEN🟢  ")
             else:
                 if current in numbers:
-                    print(newperiod+1,": 🟢GREEN🟢 OR BIG ")
+                    print(newperiod+1,": 🟢GREEN🟢   ")
                 else:
-                    print(newperiod+1,": 🔴RED🔴  OR SMALL")
+                    print(newperiod+1,": 🔴RED🔴  ")
         i=i+1
         newperiod+=1
         numbers.append(current)
@@ -145,7 +145,7 @@ if(expirydate>today):
             period=220
             hero()
     elif(True):
-            period=1
+            period=10930
             hero()
     elif(False):
             period=360
